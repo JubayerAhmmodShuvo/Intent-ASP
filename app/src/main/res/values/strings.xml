@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="textView">hi </string>
+    <string name="button">Next</string>
+</resources>
